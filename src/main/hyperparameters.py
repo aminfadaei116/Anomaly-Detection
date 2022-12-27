@@ -1,6 +1,3 @@
-
-
-
 import cv2
 from scipy.io import loadmat
 import numpy as np
